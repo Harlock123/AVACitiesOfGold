@@ -1,0 +1,8 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="AVACitiesOfGold.MainWindow"
+        Title="AVACitiesOfGold"
+        Width="1024" Height="768" MinWidth="512" MinHeight="384"
+        WindowStartupLocation="CenterScreen"
+        Background="Black">
+</Window>
